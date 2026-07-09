@@ -51,6 +51,21 @@ Elastic IP:13.127.33.225
 Website URL:
 http://13.127.33.225/
 
+## Bonus: Nginx Restart Automation Script
+
+A shell script was created to automate restarting the Nginx service.
+
+Script:
+nginx.sh
+
+Functions:
+- Checks Nginx status
+- Restarts Nginx service
+- Verifies successful restart
+
+Command used:
+./nginx.sh
+
 ## Bonus: Additional Security Group
 
 Created and attached an additional Security Group to the existing EC2 instance.
