@@ -31,5 +31,18 @@ Created a custom HTML page and hosted it using Nginx.
 ## Public IP
 Ip : 3.109.203.235
 
+## GitHub Setup
+
+- Installed Git
+- Generated an SSH key:
+
+```bash
+ssh-keygen -t ed25519 -C "abhinavdev.work@gmail.com"
+```
+
+- Added the public SSH key to my GitHub account.
+- Connected the local repository to GitHub using SSH.
+- Pushed the project using Git.
+
 ## Author
 Abhinav Singh
