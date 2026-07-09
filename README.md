@@ -1,0 +1,35 @@
+# AWS DevOps Engineer Intern Assignment
+
+## Objective
+Deploy a simple website on an AWS EC2 instance.
+
+## EC2 Setup
+- Launched Ubuntu EC2 instance
+- Created Security Group
+- Allowed ports:
+  - SSH (22)
+  - HTTP (80)
+
+## Linux Commands Used
+
+```bash
+sudo apt update
+sudo apt upgrade -y
+sudo apt install nginx -y
+sudo systemctl status nginx
+sudo systemctl restart nginx
+df -h
+mstat (for live stats)
+free -h
+ps aux
+top or htop (for live process stats)
+```
+
+## Website
+Created a custom HTML page and hosted it using Nginx.
+
+## Public IP
+Ip : 3.109.203.235
+
+## Author
+Abhinav Singh
