@@ -44,5 +44,13 @@ ssh-keygen -t ed25519 -C "abhinavdev.work@gmail.com"
 - Connected the local repository to GitHub using SSH.
 - Pushed the project using Git.
 
+## Server Details
+
+Elastic IP:13.127.33.225
+
+Website URL:
+http://http://13.127.33.225/
+a9b1b12 (Updated documentation with Elastic IP)
+
 ## Author
 Abhinav Singh
