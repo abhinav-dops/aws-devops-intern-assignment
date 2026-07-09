@@ -51,5 +51,14 @@ Elastic IP:13.127.33.225
 Website URL:
 http://http://13.127.33.225/
 
+## Bonus: Additional Security Group
+
+Created and attached an additional Security Group to the existing EC2 instance.
+
+Security Groups attached:
+- Original EC2 Security Group
+- bonus-security-group
+
+
 ## Author
 Abhinav Singh
