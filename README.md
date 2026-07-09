@@ -50,7 +50,6 @@ Elastic IP:13.127.33.225
 
 Website URL:
 http://http://13.127.33.225/
-a9b1b12 (Updated documentation with Elastic IP)
 
 ## Author
 Abhinav Singh
