@@ -49,7 +49,7 @@ ssh-keygen -t ed25519 -C "abhinavdev.work@gmail.com"
 Elastic IP:13.127.33.225
 
 Website URL:
-http://http://13.127.33.225/
+http://13.127.33.225/
 
 ## Bonus: Additional Security Group
 
